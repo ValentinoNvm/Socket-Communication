@@ -7,7 +7,6 @@
 #include <iphlpapi.h>
 #define DEFAULT_IP "127.0.0.1"
 #define DEFAULT_PORT "8083"
-#define DEFAULT_BUFLEN 512
 #pragma comment(lib, "Ws2_32.lib")
 
 
